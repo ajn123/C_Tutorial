@@ -15,7 +15,7 @@ int main(void) {
 	int * const Ptr = &peter;//constant pointer, must always be pointing to that address.
 	// So I can still change the VALUE stored at that address.  I can not assign this pointer to another address.
 
-	*Ptr = 22;//changes value of the pointer.  This is legal as I am not changing the ADDRESS, which is constant.
+	*Ptr = 22;//changes value of the pointer.  This is legal as I am not changing the ADDRESS, which is constant..
 
 
 
