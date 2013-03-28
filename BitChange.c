@@ -44,7 +44,7 @@ int main(void) {
 	 * Depending on the size of the bit it is possible to lose
 	 * bits as they fall off the length of the variable.
 	 * What this does is essentially multiply your
-	 * number by (2^n) where 2 is the parameter
+	 * number by (2^n) where n is the parameter
 	 */
 	printf("%d \n", i << 2); //prints out 40, multiplies 10 by 2^2 = 4
 
