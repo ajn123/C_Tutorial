@@ -24,6 +24,14 @@ int main(void) {
 	string = malloc(STRINGSIZE * sizeof(char));// allocate memory for the string
 	//make sure to use the sizeof() command to make your code easily transferable to different computers
 
+	if(string == NULL)//checks that malloc worked properly.
+	{
+		printf("Failed to allocate memory for the string");
+
+		exit(1);// exits the program
+	}
+
+
 
 
 	strncpy(string,source,STRINGSIZE);  //copies the string to the variable string.
