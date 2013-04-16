@@ -12,8 +12,8 @@
 
 int increment(void);
 
-int sum; // Can be used in other files, has external linkage
-static int item; //Can only be used in this file. has internal linkage.
+int sum; // Can be used in other files, has external linkage. has static storage.
+static int item; //Can only be used in this file. has internal linkage and static storage.
 
 int main(void) {
 
@@ -27,7 +27,7 @@ int main(void) {
 	return 0;
 }
 
-int increment(void) {
+static int increment(void) { // Static methods can only be viewed in the file ther are declared in.
 	/**
 	 * A static variable is stored at the beginning of the execution of the
 	 * program and stays there indefinitely throughout the execution
