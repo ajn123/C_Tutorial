@@ -27,7 +27,7 @@ int main(void) {
 	return 0;
 }
 
-static int increment(void) { // Static methods can only be viewed in the file ther are declared in.
+static int increment(void) { // Static methods can only be viewed in the file they are declared in.
 	/**
 	 * A static variable is stored at the beginning of the execution of the
 	 * program and stays there indefinitely throughout the execution
