@@ -11,6 +11,8 @@ C programming tutorials
 gcc -o  BitChange BitChange.c  # you want: gcc -o <executable name> <file name> 
 ```
 
+####Then you can run it from your terminal with ./<executable name>
+
 
 
 
