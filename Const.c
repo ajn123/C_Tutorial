@@ -26,7 +26,7 @@ int main(void) {
 	const int * const alex = Ptr;
 
 
-	printf("%d", *Ptr);
+	printf("%d \n", *Ptr);
 	printf("%d", *alex);
 
 	return 0;
