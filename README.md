@@ -20,6 +20,6 @@ gcc -o  BitChange BitChange.c  # you want: gcc -o <executable name> <file name>
 
 
 
-####Questions, Concerns, flat out mistakes?  Feel free to contact me.
+####Questions, Concerns, flat out mistakes?  Feel free to contact me as always. 
 
 > [Contact me (applejuiceteaching@gmail.com)](mailto:applejuiceteaching@gmail.com)
