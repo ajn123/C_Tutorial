@@ -43,6 +43,10 @@ int main(void) {
 	free(string);// frees the string very important.  Not doing this can cause you
 	//to leak memory and your program to crash.
 
+	//It is also good practice to set your your malloced pointer to NULL after freeing it
+	// so you do not have a pointer to some place in memory that you have no authority to read/write to.
+	string = NULL;
+
 	return 0;
 
 }
