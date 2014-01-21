@@ -19,8 +19,15 @@ int main(void) {
 
 
 
+	/**
+	 * This is a double constant variable, that means that the dereference can NOT be changed or
+	 * the address can NOT be changed.
+	 */
+	const int * const alex = Ptr;
+
 
 	printf("%d", *Ptr);
+	printf("%d", *alex);
 
 	return 0;
 }
