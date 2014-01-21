@@ -1,7 +1,7 @@
-C_Tutorials
-===========
 
 C programming tutorials
+===========
+
 
 ###Note:  All of these programs have a main method to be run separately so please to make sure you compile and run the example on its own if you are using gcc you can use:
 
