@@ -1,7 +1,7 @@
 
 C programming tutorials
 ===========
-> [You can view my videos on these examples on youtube](> [Contact me (applejuiceteaching@gmail.com)](mailto:applejuiceteaching@gmail.com))
+> [You can view my videos on these examples on youtube](http://www.youtube.com/playlist?list=PLJ7II9mlYqWjIsuhVdbqhiigU2bKYtrmE)
 
 
 ###Note:  All of these programs have a main method to be run separately so please to make sure you compile and run the example on its own if you are using gcc you can use:
