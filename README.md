@@ -9,7 +9,7 @@ C programming tutorials
 
 ```
 gcc -o  BitChange BitChange.c  # you want: gcc -o <executable name> <file name.c> <if you need multiple files in your program list them all here>
-#Note you do not need <> in the terminal or put in .h files, that is done for you.
+#Note you do not need <> in the terminal or put in .h files, that is linked for you.
 ```
 
 #####Then you can run it from your terminal in the directory of the executable with ./(executable name)
