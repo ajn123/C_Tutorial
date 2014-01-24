@@ -5,12 +5,6 @@
  *      Author: marknorton
  */
 
-/*
- * Const.c
- *
- *  Created on: Mar 25, 2013
- *      Author: Aj Norton
- */
 #include <stdio.h>
 
 //constant
