@@ -5,6 +5,7 @@
  *      Author: Aj Norton
  */
 #include <stdio.h>
+#include "magic.h"
 
 //constant
 
@@ -17,8 +18,7 @@ int main(void) {
 
 	*Ptr = 22;//changes value of the pointer.  This is legal as I am not changing the ADDRESS, which is constant
 
-
-
+	
 	/**
 	 * This is a double constant variable, that means that the dereference can NOT be changed or
 	 * the address can NOT be changed.
@@ -30,5 +30,7 @@ int main(void) {
 	printf("%d", *alex);
 
 	return 0;
+
+
 }
 
