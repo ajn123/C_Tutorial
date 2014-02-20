@@ -4,14 +4,6 @@
  *  Created on: Feb 5, 2014
  *      Author: marknorton
  */
-/*
- * Const.c
- *
- *  Created on: Mar 25, 2013
- *      Author: 
-
- Aj Norton
- */
 
  //eouaoeueaou
 #include <stdio.h>
