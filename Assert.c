@@ -5,7 +5,6 @@
  *      Author: marknorton
  */
 
- //eouaoeueaou
 #include <stdio.h>
 #include <assert.h>
 int magic(int size,int *Ptr);
