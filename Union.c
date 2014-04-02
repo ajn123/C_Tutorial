@@ -19,7 +19,8 @@ union Number {
 
 int main(void) {
 
-	/** using a union type we can make arrays that can contain multiple types
+	/**
+	 * Using a union type we can make arrays that can contain multiple types
 	 * like the one shown below.  A problem is that we do not know which exact positions
 	 * contain integers and which contain doubles.
 	 */

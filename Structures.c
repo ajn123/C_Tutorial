@@ -33,7 +33,7 @@ int main() {
 
 
 
-    pointerToFood->pointer = &burger;// uses  arrow notation which is how you assign values to POINTERS
+    pointerToFood->pointer = &burger;// uses  arrow notation "->" which is how you assign values to POINTERS
 
 
     //This will loop through the pointer until it pointing to NUll, it keeps assigning the pointer to the pointer

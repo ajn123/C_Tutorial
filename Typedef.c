@@ -14,7 +14,7 @@ typedef double cents;//cents can now be substituted for double.
 typedef int * roster;// You can do the same with pointers, just add a '*'.
 
 /**
- * You can use typedef on structs unions or enums to make declaring
+ * You can use typedef on structs, unions, or enums to make declaring
  * them easier, just add a name after the declaration and a semicolon.
  */
 typedef struct{
@@ -26,9 +26,6 @@ typedef struct{
 int main(void)
 {
 	score team1 = 20;
-
-
-
 
 	Cowboy cow = {'a'};// Initializing structure.
 

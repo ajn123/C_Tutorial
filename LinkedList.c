@@ -2,6 +2,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
+/**
+ * This is an example of a VERY simple linked list to show how you can create a list and then
+ * have a pointer to another node in the list.
+ */
+
  struct node{
 	int a;
 	struct node *next;

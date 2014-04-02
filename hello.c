@@ -15,9 +15,6 @@ typedef struct {  // initializes a structure
 
 int main() {
 
-
-
-
     food sandwich = {500,12}; //Initializes calories to 500. and fat to 12
 
     food burger = {400}; //Initializes calories to 400 and fat to 0.
