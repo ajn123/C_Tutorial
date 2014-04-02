@@ -10,7 +10,7 @@
  */
 #include <stdio.h>
 
-int increment(void);
+static int increment(void);
 
 int sum; // Can be used in other files, has external linkage. has static storage.
 static int item; //Can only be used in this file. has internal linkage and static storage.

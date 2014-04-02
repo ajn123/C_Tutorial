@@ -13,7 +13,7 @@
 /**
  * If you did not know the size of something such as a array structure, or string at compile time
  * you can allocate memory dynamically be using the malloc() function which will grab the amount
- * of memory you need.
+ * of memory you need.  Dynamic memory will be allocated on the heap.
  */
 
 int main(void) {
@@ -40,11 +40,17 @@ int main(void) {
 	printf("this is the string: %s \n", string);
 
 	puts("free memory");
-	free(string);// frees the string very important.  Not doing this can cause you
-	//to leak memory and your program to crash.
+	free(string);
+	/** frees the dynamically allocated memory, this is very important.  Not doing this can cause you
+	to leak memory and your program to crash as you keep asking for more and more memory you need to free
+	it to tell the computer that this memory can be used for something else instead of asking for more
+	memory..
+	*/
 
-	//It is also good practice to set your your malloced pointer to NULL after freeing it
-	// so you do not have a pointer to some place in memory that you have no authority to read/write to.
+
+	/**It is also good practice to set your your malloced pointer to NULL after freeing it
+	 so you do not have a pointer to some place in memory that you have no authority to read/write to.
+	 */
 	string = NULL;
 
 	return 0;
