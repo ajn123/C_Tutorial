@@ -10,7 +10,7 @@
 #define MIN(a,b) a > b ? b: a
 
 /**
- * You want to define multiple line macros like macro below with parenthesis around the macro arguments.
+ * You want to define multiple line macros like the macro below with parenthesis around the macro arguments.
  * Notice the parenthesis around the macro parameters during the assignments.  This is because
  * some actions take precedence over the others (*,+,-) and instead of memorizing them you can cancel
  * this out by using parenthesis.

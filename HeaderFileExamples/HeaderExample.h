@@ -9,6 +9,8 @@
 #define HEADEREXAMPLE_H_
 #include <stdio.h>
 
+
+//Method declaration not in  HeaderExample.c
 int add(int i);
 
 
