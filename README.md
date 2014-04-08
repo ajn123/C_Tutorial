@@ -10,7 +10,8 @@ This is merely an educational means to teach myself and others C programming.
 * [http://www.cprogramming.com/tutorial.html](http://www.cprogramming.com/tutorial.html)
 * [http://www.tutorialspoint.com/cprogramming](http://www.tutorialspoint.com/cprogramming/)
 
-
+ <br />
+  <br />
 
 ---
 ######Note:  All of these programs have a main method to be run separately so please to make sure you compile and run the example on its own if you are using gcc you can use:
@@ -24,7 +25,9 @@ gcc -o  BitChange BitChange.c  # you want: gcc -o <executable name> <file name.c
 
 ---
 
-
+ <br />
+  <br />
+   <br />
 
 
 
