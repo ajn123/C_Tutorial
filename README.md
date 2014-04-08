@@ -20,7 +20,7 @@ gcc -o  BitChange BitChange.c  # you want: gcc -o <executable name> <file name.c
 #Note you do not need <> in the terminal or put in .h files, that is linked for you.
 ```
 
-#####Then you can run it from your terminal in the directory of the executable with ./(executable name)
+#####Then you can run it from your terminal in the directory of the executable with ./{executable name}
 
 ---
 
