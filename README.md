@@ -5,17 +5,15 @@ C programming tutorials
 
 This is merely an educational means to teach myself and others C programming.
 
-
-######Note:  All of these programs have a main method to be run separately so please to make sure you compile and run the example on its own if you are using gcc you can use:
-
-
-
 ######Other helpful links:
 
 * [http://www.cprogramming.com/tutorial.html](http://www.cprogramming.com/tutorial.html)
 * [http://www.tutorialspoint.com/cprogramming](http://www.tutorialspoint.com/cprogramming/)
 
 
+
+
+######Note:  All of these programs have a main method to be run separately so please to make sure you compile and run the example on its own if you are using gcc you can use:
 
 ```
 gcc -o  BitChange BitChange.c  # you want: gcc -o <executable name> <file name.c> <if you need multiple files in your program list them all here>
