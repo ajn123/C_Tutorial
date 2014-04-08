@@ -16,7 +16,7 @@ This is merely an educational means to teach myself and others C programming.
 ---
 
 <p align="center">
-  oueoaeuaoe
+  ##Compiling In C using GCC
 </p>
 <br/>
 
