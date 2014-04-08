@@ -15,7 +15,9 @@ This is merely an educational means to teach myself and others C programming.
 
 ---
 
-<p align="center" font size="20" >Compiling In C using GCC</p>
+###Compiling In C using GCC
+
+
 <br/>
 
 ######Note:  All of these programs have a main method to be run separately so please to make sure you compile and run the example on its own if you are using gcc you can use:
