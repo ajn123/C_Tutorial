@@ -12,8 +12,8 @@ This is merely an educational means to teach myself and others C programming.
 
 ######Other helpful links:
 
-* (http://www.cprogramming.com/tutorial.html)[http://www.cprogramming.com/tutorial.html]
-* (http://www.tutorialspoint.com/cprogramming/)[http://www.tutorialspoint.com/cprogramming/]
+* [http://www.cprogramming.com/tutorial.html](http://www.cprogramming.com/tutorial.html)
+* [http://www.tutorialspoint.com/cprogramming](http://www.tutorialspoint.com/cprogramming/)
 
 
 
