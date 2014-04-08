@@ -11,8 +11,6 @@ This is merely an educational means to teach myself and others C programming.
 * [http://www.tutorialspoint.com/cprogramming](http://www.tutorialspoint.com/cprogramming/)
 
 <br />
-<br />
-
 ---
 
 ###Compiling In C using GCC
@@ -29,9 +27,8 @@ gcc -o  BitChange BitChange.c  # you want: gcc -o <executable name> <file name.c
 
 ---
 
- <br />
-  <br />
-   <br />
+<br />
+<br />
 
 
 
