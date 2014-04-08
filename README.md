@@ -21,7 +21,7 @@ This is merely an educational means to teach myself and others C programming.
 ######Note:  All of these programs have a main method to be run separately so please to make sure you compile and run the example on its own if you are using gcc you can use:
 
 ```
-gcc -o  BitChange BitChange.c  # you want: gcc -o <executable name> <file name.c> <if you need multiple files in your program list them all here>
+gcc -o  BitChange BitChange.c  # you want: gcc -o <executable name> <file name.c> <file2.c> ...
 #Note you do not need <> in the terminal or put in .h files, that is linked for you.
 ```
 
