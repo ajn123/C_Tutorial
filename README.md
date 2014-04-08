@@ -10,7 +10,9 @@ This is merely an educational means to teach myself and others C programming.
 * [http://www.cprogramming.com/tutorial.html](http://www.cprogramming.com/tutorial.html)
 * [http://www.tutorialspoint.com/cprogramming](http://www.tutorialspoint.com/cprogramming/)
 
-
+\\
+\\
+\\
 
 
 ######Note:  All of these programs have a main method to be run separately so please to make sure you compile and run the example on its own if you are using gcc you can use:
