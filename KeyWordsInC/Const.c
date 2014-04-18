@@ -5,7 +5,6 @@
  *      Author: Aj Norton
  */
 #include <stdio.h>
-#include "magic.h"
 
 //constant
 
