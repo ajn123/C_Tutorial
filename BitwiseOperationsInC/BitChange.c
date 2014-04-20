@@ -10,7 +10,7 @@ int main(void) {
 
 	signed int i = 10; // represented in binary as 1010.
 
-	signed int j = 5;  //represented in binary as 0101.....
+	signed int j = 5;  //represented in binary as 0101
 
 	/**
 	 *  if EITHER binary position contains a 1 (true) a
