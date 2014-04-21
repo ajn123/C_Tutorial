@@ -4,7 +4,7 @@
  *  Created on: Mar 21, 2013
  *      Author: Aj Norton
 
- 
+
  */
 #include <stdio.h>
 
@@ -12,9 +12,7 @@ int factorial(int i);// method header so the the compiler knows the function is 
 
 int main(void)
 {
-  printf("%d", factorial(5));
-
-
+    printf("%d", factorial(5));
 	return 0;
 }
 
