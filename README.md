@@ -3,7 +3,8 @@ C programming tutorials
 ===========
 > [You can view my videos on these examples on youtube](http://www.youtube.com/playlist?list=PLJ7II9mlYqWjIsuhVdbqhiigU2bKYtrmE)
 
-This is merely an educational means to teach myself and others C programming.
+This is merely an educational means to teach myself and others C programming.  I invite anyone to modify it and send me suggestions.  If your new to C, I suggest reading the C_programming_readings folder and looking at the example folders 
+to get started and then trying the practice problems when ready.
 
 ######Other helpful links:
 
