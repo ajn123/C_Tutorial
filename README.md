@@ -10,7 +10,7 @@ to get started and then trying the practice problems when ready.
 
 * [http://www.cprogramming.com/tutorial.html](http://www.cprogramming.com/tutorial.html)
 * [http://www.tutorialspoint.com/cprogramming](http://www.tutorialspoint.com/cprogramming/)
-* [https://www.youtube.com/playlist?list=PL78280D6BE6F05D34](The New Boston's C tutorials)
+* [The New Boston's C tutorials ](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34)
 
 <br />
 
