@@ -21,3 +21,6 @@
 *.out
 *.app
 /Debug
+
+.cproject
+.project
