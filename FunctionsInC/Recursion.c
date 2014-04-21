@@ -16,7 +16,9 @@ int main(void)
 	return 0;
 }
 
-
+/**
+Calculates the factorials (n!) of a given number.
+*/
 int factorial(int i)
 {
 	if(i <= 1)
