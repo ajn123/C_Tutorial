@@ -5,6 +5,8 @@
 *.lib
 *.a
 
+*/DS*
+
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so
