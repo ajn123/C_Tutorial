@@ -1,11 +1,14 @@
 # Object files
 *.o
 
+
 # Libraries
 *.lib
 *.a
 
 */.DS*
+.DS_Store
+
 
 # Shared objects (inc. Windows DLLs)
 *.dll
