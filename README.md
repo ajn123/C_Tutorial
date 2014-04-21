@@ -12,7 +12,13 @@ to get started and then trying the practice problems when ready.
 * [http://www.tutorialspoint.com/cprogramming](http://www.tutorialspoint.com/cprogramming/)
 * [The New Boston's C tutorials ](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34)
 
-<br />
+<br>
+
+Books to check out:
+* [C Programming a modern approach](http://www.amazon.com/exec/obidos/ASIN/0393969452/lynnallain)
+* [C programming: by the creators of the language](http://www.amazon.com/exec/obidos/ASIN/0131103628/lynnallain)
+* [C for dummies](http://www.amazon.com/exec/obidos/ASIN/1878058789/lynnallain)
+
 
 ---
 
