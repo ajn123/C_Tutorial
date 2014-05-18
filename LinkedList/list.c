@@ -3,7 +3,7 @@
  * linked list in C.  This way you can have a linked list
  * that is independent of the structure you want to link
  * together.  This implementation is a doubly list with
- * head and tail sentinal nodes for convenience.
+ * head and tail sentinel nodes for convenience.
  */
 
 #include <stdio.h>
