@@ -12,8 +12,6 @@
 #ifndef C_TUTORIAL_H_
 #define C_TUTORIAL_H_
 
-
-
 struct list_elem
 {
 	struct list_elem *prev;     /* Previous list element. */
@@ -34,9 +32,6 @@ struct person{
 	float height;
 	struct list_elem elem;
 };
-
-
-
 
 
 #define list_entry(LIST_ELEM, STRUCT, MEMBER)           \

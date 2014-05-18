@@ -53,7 +53,7 @@ struct list_elem * list_remove(struct list_elem * elem)
 	elem->next = NULL;
 	elem->prev = NULL;
 
-	//return elem->next;
+	return elem->next;
 }
 
 struct list_elem * list_pop_front(struct list * list)

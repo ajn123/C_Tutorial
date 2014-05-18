@@ -21,6 +21,7 @@
 *.out
 *.app
 /Debug
+/.settings
 
 .cproject
 .project
