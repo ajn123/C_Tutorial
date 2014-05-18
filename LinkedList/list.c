@@ -1,6 +1,15 @@
+/**
+ * Purpose:  This is an example of a structure independent
+ * linked list in C.  This way you can have a linked list
+ * that is independent of the structure you want to link
+ * together.  This implementation is a doubly list with
+ * head and tail sentinal nodes for convenience.
+ */
+
 #include <stdio.h>
 #include <assert.h>
 #include "list.h"
+
 
 void list_initialize(struct list * list)
 {
