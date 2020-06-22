@@ -18,17 +18,25 @@
 
 int main(void) {
 
-	FILE *filePtr = fopen("example.txt", "rw");
+    FILE *filePtr = fopen("example.txt", "rw");
+    char line[1000];
 
-	char line[1000];
+    if (fPtr == NULL) {
+        /* Handle error for if fopen failed to find a file */
+        printf("Could not open file %s", FILE_NAME);
+        return EXIT_FAILURE;
+    }
 
-	while (fgets(line, sizeof(line), filePtr)) {
-		printf("%s", line);
-	}
+    while (fgets(line, sizeof(line), filePtr)) {
+        printf("%s", line);
+    }
 
-	fclose(filePtr);
-
-	return 1;
+    if (fclose(filePtr) == EOF) {
+        /* Handle error for if closed before returning to the caller*/
+        puts("Was not is closed before returning to the caller!");
+        return 1;
+    }
+    return 0;
 }
 
 //
