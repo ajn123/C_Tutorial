@@ -33,7 +33,7 @@ int main(void) {
 
     if (fclose(filePtr) == EOF) {
         /* Handle error for if closed before returning to the caller*/
-        puts("Was not is closed before returning to the caller!");
+        puts("Was not closed before returning to the caller!");
         return 1;
     }
     return 0;
